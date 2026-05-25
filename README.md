@@ -30,14 +30,13 @@ Sinh viên sẽ lập trình cả 2 phương pháp và so sánh mức độ suy 
     │   ├── results.config                           # Khai báo biến trích xuất điểm số
     │   └── goals.config                             # Quy chuẩn mục tiêu đánh giá tự động
     └── stego-container/
-        └── home/ubuntu/stego_lab/
-            ├── compare.py                           # Khung mã nguồn sinh viên cần hoàn thiện (TODO)
-            ├── generate_video.py                    # Tự động sinh video gốc cover
-            ├── startup.sh                           # Tập lệnh tự chạy khi kích hoạt lab
-            ├── instructions.txt                     # Hướng dẫn nhiệm vụ trong container
-            ├── checkwork.sh                         # Kịch bản tự chấm điểm tại chỗ (100 điểm)
-            └── solution/
-                └── compare_sol.py                   # Giải pháp mẫu hoàn chỉnh của giảng viên
+        ├── compare.py                           # Khung mã nguồn sinh viên cần hoàn thiện (TODO)
+        ├── generate_video.py                    # Tự động sinh video gốc cover
+        ├── startup.sh                           # Tập lệnh tự chạy khi kích hoạt lab
+        ├── instructions.txt                     # Hướng dẫn nhiệm vụ trong container
+        ├── checkwork.sh                         # Kịch bản tự chấm điểm tại chỗ (100 điểm)
+        └── solution/
+            └── compare_sol.py                   # Giải pháp mẫu hoàn chỉnh của giảng viên
 ```
 
 ---
